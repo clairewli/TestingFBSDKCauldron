@@ -1,4 +1,12 @@
 {
+  "config": {
+    "manifest": {
+      "override": {
+        "url": "git@github.com:clairewli/FBSDKManifest.git",
+        "type": "partial"
+      }
+    }
+  },
   "nativeApps": [
     {
       "name": "FBSDKTrying",
