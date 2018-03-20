@@ -20,15 +20,17 @@
               "isReleased": false,
               "binary": null,
               "yarnLocks": {},
-              "nativeDeps": [],
-              "miniApps": {
-                "container": []
-              },
-              "codePush": {}
+              "codePush": {},
+              "container": {
+                "nativeDeps": [],
+                "miniApps": [],
+                "jsApiImpls": []
+              }
             }
           ]
         }
       ]
     }
-  ]
+  ],
+  "schemaVersion": "1.0.0"
 }
